@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@maxmind/geoip2-node": "^3.5.0",
+    "leaflet": "^1.9.3",
+    "react-leaflet": "^4.2.1"
+  },
+  "devDependencies": {
+    "supabase": "^1.64.8"
+  }
+}
